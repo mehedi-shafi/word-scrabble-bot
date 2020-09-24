@@ -15,8 +15,8 @@ Then I decide the validity of the built up words using adjacency matrix built fr
 Finally mouse is controlled using pyautogui to emulate drag. And voila.
 
 Demo:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ScsF-_AQCD8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* [Here](demo-runs/) or,
+* [on YouTube](https://www.youtube.com/embed/ScsF-_AQCD8)
 
 > I am sorry for the guy on otherside.
 
